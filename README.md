@@ -1,0 +1,2 @@
+# kotlin_execution
+kotlinを簡単に実行するようにbatファイルを作りましたのでよかったらご利用ください。
